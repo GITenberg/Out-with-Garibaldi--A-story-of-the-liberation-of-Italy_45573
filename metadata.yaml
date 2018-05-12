@@ -1,0 +1,50 @@
+_repo: Out-with-Garibaldi--A-story-of-the-liberation-of-Italy_45573
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Rainey, W. (William)
+    aliases:
+    - Rainey, H. W. (H. William)
+    - Rainey, W.
+    - Rainey, William
+    birthdate: 1852
+    deathdate: 1936
+    gutenberg_agent_id: '9704'
+    url: http://www.gutenberg.org/2009/agents/9704
+covers:
+- cover_type: archival
+  image_path: 45573-h/images/cover_lg.jpg
+creator:
+  author:
+    agent_name: Henty, G. A. (George Alfred)
+    alias: Henty, George Alfred
+    birthdate: 1832
+    deathdate: 1902
+    gutenberg_agent_id: '1032'
+    url: http://www.gutenberg.org/2009/agents/1032
+    wikipedia: http://en.wikipedia.org/wiki/G._A._Henty
+description: ''
+gutenberg_bookshelf: Italy
+gutenberg_issued: '2014-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45573'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Assassins -- Juvenile fiction'
+- !lcsh 'Courage -- Juvenile fiction'
+- !lcsh 'Garibaldi, Giuseppe -- 1807-1882 -- Juvenile fiction'
+- !lcsh 'Soldiers -- Juvenile fiction'
+- !lcsh 'Loyalty -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Volunteers -- Juvenile fiction'
+- !lcsh 'War -- Juvenile fiction'
+- !lcsh 'Italy -- History -- 1849-1870 -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Kingdom of the Two Sicilies -- History -- 1848-1861 -- Juvenile fiction'
+title: 'Out with Garibaldi: A story of the liberation of Italy'
+url: http://www.gutenberg.org/ebooks/45573
